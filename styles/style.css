@@ -1,0 +1,23 @@
+body{
+    background-color: antiquewhite;
+    color:  rgb(173, 9, 72);
+    padding: 4%;
+}
+h1{
+    font-size: 36px;
+    font-weight: bold;
+}
+a{
+    background-color: rgb(173, 9, 72);
+    color: azure;
+    border: 2px solid azure;
+    text-decoration: none;
+    padding: 5px;
+}
+body img{
+    height: auto;
+    width: 10%;
+}
+ul, ol, p{
+    color: black;
+}
